@@ -1,0 +1,12 @@
+Font: FOT-Skip Std  Style: B
+Point Size: 204   SP/PD Ratio: 4.4%
+
+Characters included: 0/0
+Missing characters: 0
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+
+Characters excluded from packing:
+----------------------------------------
